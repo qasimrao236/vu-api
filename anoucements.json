@@ -1,3 +1,7 @@
-
- {"annoucements"}:{"Paid LMS handling available."}
-
+{
+  "announcements": {
+    "message": "Paid LMS handling available.",
+    "date": "25/11/2024.",
+  
+  }
+}
