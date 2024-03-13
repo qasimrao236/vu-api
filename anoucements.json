@@ -1,11 +1,4 @@
-[
-  {
-    "annoucement": "Muhammad Hashim",
-    "id": "1"
-  },
-    {
-    "annoucement": "Muhammad Qasim",
-    "id": "2"
-
-  }
-]
+{
+  "message":"hello"
+  "date":"13/2/2024"
+}
